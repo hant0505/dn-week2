@@ -1,4 +1,4 @@
-package com.example.securingweb.model;
+package com.example.securingweb;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.NoArgsConstructor;

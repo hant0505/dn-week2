@@ -1,4 +1,4 @@
-package com.example.securingweb.model;
+package com.example.securingweb;
 
 import jakarta.persistence.*;
 import java.util.Set;

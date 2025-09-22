@@ -1,6 +1,5 @@
-package com.example.securingweb.repository;
+package com.example.securingweb;
 
-import com.example.securingweb.model.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

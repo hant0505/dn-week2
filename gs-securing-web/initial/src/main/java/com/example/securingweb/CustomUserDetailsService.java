@@ -1,7 +1,6 @@
-package com.example.securingweb.service;
+package com.example.securingweb;
 
-import com.example.securingweb.model.AppUser;
-import com.example.securingweb.repository.UserRepository;
+
 import org.springframework.security.core.userdetails.*;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.stereotype.Service;
