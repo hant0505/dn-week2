@@ -1,8 +1,8 @@
 [Đăng ký]
-https://github.com/user-attachments/assets/e59d55aa-e7fc-4931-ac91-6620ee7402ed
+<img width="595" height="292" alt="Screenshot 2025-09-22 120528" src="https://github.com/user-attachments/assets/b3274d07-96f2-4089-8165-a487c2fc09a5" />
 
 [Mật khẩu được mã hóa]
-https://github.com/user-attachments/assets/724ba2bb-9a31-4539-b361-e8051c32f00d
+<img width="591" height="170" alt="Screenshot 2025-09-22 120615" src="https://github.com/user-attachments/assets/43f5e3d3-e35e-4d70-910e-acb0c6d6cc0a" />
 
 
 Log in với role 'USERS'
