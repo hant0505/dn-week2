@@ -1,8 +1,6 @@
-Đănng ký 
-<img width="591" height="170" alt="image" src="https://github.com/user-attachments/assets/e59d55aa-e7fc-4931-ac91-6620ee7402ed" />
+   ![Đăng ký](https://github.com/user-attachments/assets/e59d55aa-e7fc-4931-ac91-6620ee7402ed)
 
-Mật khẩu được mã hóa
-<img width="591" height="170" alt="Screenshot 2025-09-22 120615" src="https://github.com/user-attachments/assets/724ba2bb-9a31-4539-b361-e8051c32f00d" />
+   ![Mật khẩu được mã hóa](https://github.com/user-attachments/assets/724ba2bb-9a31-4539-b361-e8051c32f00d)
 
 
 Log in với role 'USERS'
